@@ -1,0 +1,1 @@
+This is the repo of the "Comparative of different linear regression predictions" Shiny application, which was a Course Project for the Developing Data Products class of the Johns Hopkins University, hosted by Coursera.
